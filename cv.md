@@ -39,3 +39,7 @@ I am an active Full Stack Developer, currently working on the development of app
  - ISTU Specialist "Applied Informatics"
  - ISTU Bachelor "Programm Ingeneering" In progress
  - RSSchool. Finished RS 2019 Q3
+
+### English
+ - English B2
+ - Communication with English native speakers (ISTU foreign students)
